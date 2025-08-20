@@ -42,6 +42,6 @@ The detailed description of the code can be found in Park et al. 2022 (https://u
 
 [8] exit_condition.f90: condition for finishing run for each photon
 
-[9] Hyojeong.f90, Hyojeong_mod.f90, & CalcT_sub.f90: physical quantity calculation modules written by Hyojeong Kim.
+[9] Hyojeong.f90, Hyojeong_mod.f90, & CalcT_sub.f90: physical quantity calculation modules written and tested by Hyojeong Kim.
 
 
